@@ -1,1 +1,1 @@
-# van-input-naar-output
+# School assignment
